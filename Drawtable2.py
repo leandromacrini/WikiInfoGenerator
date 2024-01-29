@@ -83,6 +83,7 @@ class Drawtable2:
         self.stroke_width = kwargs.get('text_stroke_width',0)
         self.stroke_fill = kwargs.get("text_stroke_fill",'black')
         self.first_column_header =kwargs.get("first_column_header", False)
+        self.alternate_bold =kwargs.get("alternate_bold", 0)
         self.return_params  = return_params
         self.font = font
         self.new_img=False
@@ -198,7 +199,7 @@ class Drawtable2:
 
                         cur_h=self.y_rate  
                         for idx,line in enumerate(lines): 
-                            if (row_idx==0 and self.header_frame) or ( num_columns==0 and self.first_column_header):
+                            if (row_idx==0 and self.header_frame) or ( num_columns==0 and self.first_column_header) or (self.alternate_bold > 0 and row_idx % self.alternate_bold == 0 ):
                                 x,y,width, height = self.header_font.getbbox(line)
                                 xy=self.x_init+self.margin+(sum(self.__width_per_cell[:num_columns])),cur_h
                                 self.__draw_text(xy,text=line,font=self.header_font,fill=self.header_color)

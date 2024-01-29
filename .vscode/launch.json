@@ -10,7 +10,7 @@
             "request": "launch",
             //"program": "consoleDataScraper.py",
             //"args": ["console_names.txt", "console_data.csv"],
-            "program": "generateConsoleCards.py",
+            "program": "generateConsoleCards.portrait.py",
             "args": ["console_data.csv"],
             "console": "integratedTerminal",
             "justMyCode": true
