@@ -26,7 +26,7 @@ def download_image(url):
 	if(os.path.splitext(url)[-1] == ".svg"):
 		out = io.BytesIO()
 		try:
-			cairosvg.svg2png(bytestring=data, write_to=out)
+			cairosvg.svg2png(bytestring=data, write_to=out, output_height=1000, dpi=300)
 			return Image.open(out)
 		except Exception as ex:
 			return None
@@ -40,7 +40,7 @@ def draw_multiline_textbox(bg_image, string, font: ImageFont.FreeTypeFont, x, y,
 	draw = ImageDraw.Draw(bg_image, "RGBA")
 
 	if(debug == True):
-		draw.rectangle((x,y,x+width, y+height))
+		draw.rectangle((x,y, x+width, y+height), color)
 
 	multilines = string.split('\n')
 	lines = []
@@ -71,7 +71,16 @@ def draw_multiline_textbox(bg_image, string, font: ImageFont.FreeTypeFont, x, y,
 		if edge and (line[-1] != '\n'):
 			words = line.split()
 			total_difference = width - font.getlength(''.join(words))
-			delta = total_difference / (len(words)-1)
+			delta = 0
+			if(len(words) == 1):
+				if(h_align == "left"):
+					delta = 0
+				elif(h_align == "center"):
+					delta = total_difference/2
+				else:
+					delta = total_difference
+			else:
+				delta = total_difference / (len(words)-1)
 			x_temp = x
 
 			for j, word in enumerate(words):
@@ -104,7 +113,8 @@ def create_item_card(item_info, output_path="item_card.png"):
 	card = Image.new("RGBA", (card_width, card_height), color=card_color)
 
 	# TITLE
-	title_width, title_height = int(card_width*2/3), card_height
+	title_width, title_height = int(card_width*2/3), int(card_width*1/6)
+	footer_width, footer_height = card_width, int(card_height*1/5)
 
 	draw = ImageDraw.Draw(card)
 
@@ -121,29 +131,20 @@ def create_item_card(item_info, output_path="item_card.png"):
 
 	#Nome
 	nome_anno = f"{item_info['Nome']} ({item_info['Anno di rilascio']})"
-	draw_multiline_textbox(card, nome_anno, font_big_bold, gap, gap, title_width - 2*gap, title_height * 1/7 - 2*gap, color=text_color, h_align="left", v_align="top")
+	draw_multiline_textbox(card, nome_anno, font_big_bold, gap, gap, title_width - 2*gap, title_height - 2*gap, color=text_color, h_align="left", v_align="top")
 
 	#Descrizione
-	draw_multiline_textbox(card, item_info['Descrizione'], font, gap, title_height*1/7, title_width - 2*gap, title_height*3/5, color=text_color, edge=True, h_align="left", v_align="top")
+	draw_multiline_textbox(card, item_info['Descrizione'], font, gap, title_height + gap, title_width - 2*gap, card_height*3/5, color=text_color, edge=True, h_align="left", v_align="top")
 
 	#Proprietario
 	prop = f"Dalla collezione di: {item_info['Proprietario']}"
-	draw_multiline_textbox(card, prop, font_small, gap, title_height*4/5 - font_small.size - gap, title_width - 2*gap, title_height*4/5, color=text_color, h_align="left", v_align="top")
+	draw_multiline_textbox(card, prop, font_small, gap, card_height*4/5 - font_small.size - gap, title_width - 2*gap, card_height*4/5, color=text_color, h_align="left", v_align="top")
 
 
 	#Lines
 	#draw.line([(gap, title_height*1/5 +gap),(title_width-gap, title_height*1/5 +gap)], fill=text_color, width=2)
-	draw.line([(gap, title_height*4/5),(card_width-gap, title_height*4/5)], fill=text_color, width=2)
-	draw.line([(title_width, gap),(title_width, title_height* 4/5 - gap)], fill=text_color, width=2)
-
-	#Logo
-	if(item_info["Logo"]):
-		image = download_image(item_info["Logo"])
-		if image is not None:
-			image = image.convert("RGBA")
-			image.thumbnail((( card_width/2 - 2*gap ), title_height * 1/5 - 2*gap), Image.Resampling.LANCZOS)
-			card.alpha_composite(image, (gap, int(title_height*4/5 + (title_height*1/5 - image.height)/2)))
-
+	draw.line([(gap, card_height*4/5),(card_width-gap, card_height*4/5)], fill=text_color, width=2)
+	draw.line([(title_width, gap),(title_width, card_height* 4/5 - gap)], fill=text_color, width=2)
 
 	#QRCode URL
 	qrcode_size = 200
@@ -157,16 +158,27 @@ def create_item_card(item_info, output_path="item_card.png"):
 	qr.make()
 	qr_img = qr.make_image(fill_color=text_color)
 	qr_img = qr_img.convert("RGBA")
-	#card.paste(qr_img, (card_width-qr_img.width-gap, card_height-qr_img.height-3*gap), qr_img)
+	qr_x = card_width-qr_img.width-gap
+	qr_y = int(card_height - footer_height+ ( footer_height - qr_img.height)/2)
+	card.paste(qr_img, (qr_x, qr_y), qr_img)
 
 	#FonteWiki
 	draw_multiline_textbox( 
 		card, "(2024) Wikipedia", font_small,
-		card_width-qr_img.width-gap, card_height-qr_img.height-4*gap,
+		qr_x, qr_y-2*gap,
 		qr_img.width, gap,
-		color=text_color, v_align="center", h_align="center",
-		debug=True
+		color=text_color, v_align="center", h_align="center"
 	)
+
+		#Logo
+	if(item_info["Logo"]):
+		image = download_image(item_info["Logo"])
+		if image is not None:
+			max_logo_height =  qr_img.height
+			max_logo_width  = int( footer_width * 2/3 - 2*gap )
+			image = image.convert( "RGBA" )
+			image.thumbnail((max_logo_width, max_logo_height), Image.Resampling.LANCZOS)
+			card.alpha_composite(image,(gap, int(card_height - footer_height + (footer_height - image.height)/2)))
 
 	#INFO TABLE
 	table_width, table_height = int(card_width*1/3) - 2*gap, int(card_height * 4/5 - 2*gap)
@@ -262,28 +274,6 @@ def create_item_card(item_info, output_path="item_card.png"):
 	card.save(output_path)
 	print(f"Immagine creata con successo: {output_path}")
 	return
-
-	y_position = gap
-	for key, value in item_info.items():
-		
-		if(key == "Rilasci"):
-			draw.text((gap, y_position), f"{key}:", fill=text_color, font=font)
-			y_position += gap
-			for rilascio in value:
-				image = download_image(rilascio['Flag'])
-				image = image.convert("RGBA")
-				image.thumbnail((gap*2,gap*2), Image.Resampling.LANCZOS)
-				img.paste(image, (gap*3, y_position+gap), image)
-				draw.text((gap*5 + image.width, y_position+gap), f"{rilascio['Data']}", fill=text_color, font=font)
-				y_position += image.height + gap
-		else:
-			text = f"{key}: {value}"
-			draw.text((gap, y_position), text, fill=text_color, font=font)
-			y_position += gap
-
-	# Salvataggio dell'immagine
-	img.save(output_path)
-	print(f"Immagine creata con successo: {output_path}")
 
 def generate_cards(input_file):
    # Leggi le informazioni sull'oggetto da un file CSV
