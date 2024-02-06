@@ -3,7 +3,7 @@ Prese dal sito www.videogameconsolelibrary.com
 
 POSSEDUTI:
 1972 - Magnavox Odyssey (OK)
-1975 - PC-50X Family (OK - DA VERFICARE)
+1975 - PC-50X Family (OK?) (PONG CHIP BASED)
 1976 - Fairchild Channel F (OK)
 1976 - 1292 APVS Family (OK CLONE INTERTON VC-4000)
 1977 - Atari Video Computer System \ 2600 (OK)
@@ -80,7 +80,7 @@ MANCANTI:
 1985 - BBC Bridge Companion (MANCA)
 1986 - Bit Corp Dina 2 in one (2-in-1) (MANCA)
 1987 - Takara \ Bandai Video Challenger (MANCA)
-1988 - NEC PC Engine CD-ROM2 \ TG-CD (MANCA)
+1988 - NEC PC Engine CD-ROM2 \ TG-CD (MANCA - HO IL BASE E IL DUO)
 1989 - NEC SuperGrafx (MANCA)
 
 1990 - Amstrad GX4000 (MANCA)
@@ -92,7 +92,7 @@ MANCANTI:
 1995 - Nintendo Satellaview BS-X (MANCA)
 1995 - Atari Jaguar CD (MANCA)
 1995 - Funtech Super A'Can (MANCA)
-1998 - Panasonic 3DO M2 (MANCA)
+1998 - Panasonic 3DO M2 (MANCA - HO IL 3DO BASE)
 1999 - Nintendo 64DD (MANCA)
 
 2000 - NUON Technology (MANCA)

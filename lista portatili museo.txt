@@ -9,7 +9,7 @@ POSSEDUTI:
 1979 - Milton Bradley Microvision (OK)
 
 1989 - Nintendo Game Boy (OK)
-1989 - Atari Lynx (OK)
+1989 - Atari Lynx (OK - HO IL SECONDO MODELLO)
 
 1990 - Sega Game Gear (OK)
 1992 - Watara Supervision (OK)
@@ -24,12 +24,14 @@ POSSEDUTI:
 2003 - Game Boy Advance SP (OK)
 2004 - Nintendo DS(OK)
 2004 - PlayStation Portable (OK)
+2004 - Nokia N-Gage QD (OK DA DRESSENO)
 2005 - Tiger Holdings Gizmondo (OK)
 2006 - Nintendo DS Lite (OK?)
 2007 - PlayStation Portable Slim & Lite (OK?)
 2008 - Nintendo DSi (OK?)
 
-2015 - New Nintendo 3DS (OK?)
+2011 - Nintendo 3DS (OK - DA GABRIELE)
+2015 - New Nintendo 3DS (OK)
 2017 - Nintendo Switch (OK)
 
 MANCANTI:
@@ -38,27 +40,25 @@ MANCANTI:
 
 1992 - Sega Mega Jet (MANCA)
 1995 - Sega Nomad (MANCA)
-1996 - SNK Neo Geo Pocket (MANCA)
+1996 - SNK Neo Geo Pocket (MANCA - HO IL COLOR)
 1997 - Tiger Electronics Game.com (MANCA)
 1998 - Cybiko (MANCA)
-1999 - Bandai WonderSwan(MANCA)
+1999 - Bandai WonderSwan(MANCA - HO IL COLOR)
 
 2001 - Game Park GP32 (MANCA)
-2002 - Bandai SwanCrystal (MANCA)
+2002 - Bandai SwanCrystal (MANCA - HO IL COLOR)
 2003 - Nokia N-Gage (MANCA)
 2003 - Timetop Gameking (MANCA)
 2004 - Tapwave Zodiac (MANCA)
-2004 - Nokia N-Gage QD (MANCA)
-2005 - Game Boy Micro (MANCA)
+2005 - Game Boy Micro (MANCA - HO TUTTI GLI ALTRI)
 2005 - GamePark Holdings GP2X (MANCA)
 2009 - Pandora (MANCA)
 
 2010 - GP2X Caanoo (MANCA)
-2011 - Nintendo 3DS (MANCA?)
 2012 - PlayStation Vita (MANCA)
-2017 - New Nintendo 2DS XL (MANCA)
-2019 - Nintendo Switch Lite (MANCA)
-2021 - Nintendo Switch OLED (MANCA)
+2017 - New Nintendo 2DS XL (MANCA - HO IL 3DS e NEW 3DS)
+2019 - Nintendo Switch Lite (MANCA - HO LA SWITCH NORMALE)
+2021 - Nintendo Switch OLED (MANCA - HO LA SWITCH NORMALE)
 
 PROTOTIPI:
 1979 - Atari Cosmos (PROTOTIPO)
