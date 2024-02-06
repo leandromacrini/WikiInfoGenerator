@@ -13,6 +13,7 @@ POSSEDUTI:
 
 1990 - Sega Game Gear (OK)
 1992 - Watara Supervision (OK)
+1995 - Tiger R-Zone (OK)
 1996 - Game Boy Pocket (OK)
 1998 - Nintendo Game Boy Color(OK)
 1998 - Sega Visual Memory Unit(OK)
@@ -39,6 +40,7 @@ MANCANTI:
 1990 - PC Engine GT \ NEC TurboExpress (MANCA)
 
 1992 - Sega Mega Jet (MANCA)
+1993 - Tiger Quiz Wiz (MANCA - ESISTE ANCHE ITA)
 1995 - Sega Nomad (MANCA)
 1996 - SNK Neo Geo Pocket (MANCA - HO IL COLOR)
 1997 - Tiger Electronics Game.com (MANCA)

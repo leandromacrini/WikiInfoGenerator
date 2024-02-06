@@ -542,6 +542,18 @@ Wii Classic Controller
 Wii Classic Controller Pro
 Wii Balance Board";;"iDensity
 Disco ottico Wii";Mario Kart 88,45 milioni (30 settembre 2020);https://upload.wikimedia.org/wikipedia/commons/7/7e/WiiU.svg;https://it.wikipedia.org/api/rest_v1/page/html/Wii U;https://upload.wikimedia.org/wikipedia/commons/4/4a/Wii_U_Console_and_Joypad.png;"Wii U (ウィー・ユー Wī Yū, pronunciato come i pronomi inglesi we [wiː] ""noi"" e you [juː] ""tu"" o ""voi"") è una console per videogiochi prodotta da Nintendo. É il successore di Wii pur non sostituendolo in alcuni paesi ed è stata la prima console dell'ottava generazione ad essere immessa sul mercato. I suoi principali concorrenti sono PlayStation 4 di Sony e Xbox One di Microsoft.";Leandro Macrini
+WonderSwan;Sesta;;1999;2003;3,5 milioni (tutte le versioni);;"Bandai
+Koto Corporation";NEC V30 MZ;;64 kB;Cartucce;Final Fantasy I & II;https://upload.wikimedia.org/wikipedia/commons/6/61/Wonderswan-Color-Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/WonderSwan Color;https://upload.wikimedia.org/wikipedia/commons/0/0a/WonderSwan-Color-Blue-Left.jpg;"Il WonderSwan è una console portatile creata da Bandai e Koto per il mercato orientale e particolarmente per quello giapponese nel 1999.
+
+Nel 1996 Gunpei Yokoi, progettista della serie Game Boy, lasciò Nintendo dopo l'insuccesso del Virtual Boy e fondò la KOTO Corporation.
+La Bandai, per entrare nel settore delle portatili, gli propose la creazione di un sistema che potesse concorrere con il Game Boy.
+Yokoi lavorò tra il 1996 e il 1997 al progetto, che uscì infine a marzo 1999. Il suo progettista però non vide mai la sua opera completa poiché morì nel 1997 in un incidente stradale.
+
+La console è poco ingombrante ed ha uno schermo a 16:9 di alta qualità. Può essere ruotata anche in verticale (come l'Atari Lynx), modalità chiamata ""Tate Mode"". Usa una sola batteria stilo per la notevole durata di 40 ore di gioco. Ha un cavo link per il multigiocatore.
+Uscirono altre due versioni della console:
+WonderSwan Color (2000)
+SwanCrystal (2002)
+";Leandro Macrini
 WonderSwan Color;Sesta;;;;;;Bandai;NEC V20;;512 kB;Cartucce;Final Fantasy I & II;https://upload.wikimedia.org/wikipedia/commons/6/61/Wonderswan-Color-Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/WonderSwan Color;https://upload.wikimedia.org/wikipedia/commons/0/0a/WonderSwan-Color-Blue-Left.jpg;Il WonderSwan Color è una console portatile sviluppata dalla Bandai. È stata presentata il 30 dicembre 2000 in Giappone e ha avuto un discreto successo.;Leandro Macrini
 Xbox;Sesta;[{'Data': '15 novembre 2001', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_Canada_and_the_United_States.svg'}, {'Data': '22 febbraio 2002', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '14 marzo 2002', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];2001;2005 2006;24 milioni;"NVIDIA ""XGPU""";Flextronics;Intel Coppermine;Joypad;64 MB;"DVD-ROM
 Disco rigido";Halo 2, 8 milioni di copie;https://upload.wikimedia.org/wikipedia/commons/7/75/Vectorial_Xbox_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Xbox;https://upload.wikimedia.org/wikipedia/commons/a/a7/Xbox-Console-wDuke-L.jpg;"Xbox è una console per videogiochi prodotta da Microsoft. Appartenente alla sesta generazione, venne messa in vendita il 15 novembre 2001 in America del Nord, il 22 febbraio 2002 in Giappone e il 14 marzo in Europa e Australia. Ha rappresentato il primo tentativo di entrare nel mercato delle console da parte della Microsoft, dopo aver collaborato con SEGA nel convertire Windows Embedded Compact per Dreamcast. Fu anche la prima console prodotta da una società americana da quando l'Atari Jaguar cessò la produzione nel 1996.
@@ -619,3 +631,11 @@ Visual Memory Unit;Sesta;;1998;2001;;;SEGA;Sanyo LC8670 Potato;;128 kB;Dati otte
 Ed effettivamente un tentativo simile è stato fatto più tardi dalla Sony con la sua PocketStation che però resto confinata al solo mercato giapponese.
 
 La VMU può sia fornire funzionalità aggiuntive ai giochi per Dreamcast, sia permettere di giocare autonomamente a semplici giochi trasferbili dalla console";
+Tiger R-Zone;Quinta;;1995;1997;;;Tiger Electronics;Assente (contenuta nelle cartucce);Visore VR e joypad;Assente (contenuta nelle cartucce);Cartucce;;https://static.wikia.nocookie.net/vsrecommendedgames/images/3/37/R-Zone_logo.png;https://it.wikipedia.org/api/rest_v1/page/html/R-Zone;https://upload.wikimedia.org/wikipedia/commons/8/88/Tiger-RZone-Headset.jpg;"R-Zone è una console portatile sviluppata e prodotta dalla Tiger Electronics.
+
+Inizialmente ideata per essere indossata sulla testa ed in seguito ridisegnata anche in nuove versioni tascabili. 
+Sebbene l'R-Zone non fosse stato progettata per competere direttamente con altre console portatili, segnò tuttavia l'ingresso della Tiger Electronics nel mercato delle console portatili.
+
+La prima versione dell'R-Zone consiste in una cuffia da indossare sopra la testa con un visore che si posiziona davanti all'occhio ed un controller separato alimentato da batterie.
+
+La cartuccia di ogni gioco aveva il suo schermo LCD trasparente che veniva proiettato su una superficie a specchio posta davanti all'occhio del giocatore. Si pensa che questo design originale, assieme all'utilizzo di una palette di colori rossa e nera, venne scelto per capitalizzare seguendo il fermento popolare sul Virtual Boy della Nintendo.";
