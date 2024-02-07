@@ -146,10 +146,15 @@ def create_item_card(item_info, output_path="item_card.png"):
 	draw.line([(gap, card_height*4/5),(card_width-gap, card_height*4/5)], fill=text_color, width=2)
 	draw.line([(title_width, gap),(title_width, card_height* 4/5 - gap)], fill=text_color, width=2)
 
+	if(item_info["QRTYPE"]):
+		qrsize = item_info["QRTYPE"]
+	else:
+		qrsize = 7
+
 	#QRCode URL
 	qr = qrcode.QRCode(
-		version=None,
-		box_size=7, #USE 8 FOR (R-ZONE)
+		version=1,
+		box_size=qrsize, #USE 8 FOR (R-ZONE)
 		border=0,
 		error_correction=qrcode.constants.ERROR_CORRECT_L
 	)
