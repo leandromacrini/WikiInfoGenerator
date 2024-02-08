@@ -161,15 +161,18 @@ Realizzato dal gruppo Nintendo Research & Development 1, guidato da Gunpei Yokoi
 A suo tempo divenne il sistema portatile di riferimento, nonostante l'uscita di molti concorrenti con caratteristiche tecniche ben più avanzate, ed è ad oggi una delle icone più riconosciute della storia dei videogiochi.
 
 La versione per Game Boy di Tetris è considerata la prima killer application della console portatili, un gioco cioè in grado di attrarre all'acquisto della console anche un pubblico che non era necessariamente appassionato di videogiochi.";Leandro Macrini
-Game Boy Advance;Sesta;[{'Data': '21 marzo 2001', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '11 giugno 2001', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_Canada_and_the_United_States.svg'}, {'Data': '22 giugno 2001', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '8 giugno 2004', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg'}, {'Data': '', 'Flag': None}];2001;2010;"81,51 milioni (tutte le versioni)
-";;Nintendo;"ARM7TDMI @ 16,78 MHz
-Z80 @ 8,338 MHz";;384 kB;"Cartucce
+Game Boy Advance;Sesta;;2001;2010;"81,51 milioni";;Nintendo;"ARM7TDMI @ 16,78 MHz
+Z80 @ 8,338 MHz";;"32 kB CPU RAM
+256 kB RAM
+96 kB VRAM";"Cartucce GBA
 Cartucce GBC
-Cartucce GB";Pokémon Rubino e Zaffiro (16,22 milioni in coppia);https://upload.wikimedia.org/wikipedia/commons/5/50/Game_Boy_Advance_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Game Boy Advance;https://upload.wikimedia.org/wikipedia/commons/9/98/Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg;"Il Game Boy Advance, abbreviato ufficialmente GBA, è una console portatile a 32 bit sviluppata, prodotta e commercializzata dalla Nintendo nel 2001. Succede al Game Boy Color. Competeva commercialmente con il WonderSwan Color, il GP32 e il N-Gage, occupando comunque la maggior parte del mercato. È stata la prima console portatile Nintendo a superare le caratteristiche tecniche dell'Atari Lynx, caratteristiche che rendono il Game Boy Advance simile allo SNES.
+Cartucce GB";Pokémon Rubino e Zaffiro (16,22 milioni);https://upload.wikimedia.org/wikipedia/commons/5/50/Game_Boy_Advance_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Game Boy Advance;https://upload.wikimedia.org/wikipedia/commons/9/98/Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg;"Il Game Boy Advance, abbreviato GBA, è una console portatile a 32 bit sviluppata, prodotta e commercializzata dalla Nintendo dal 2001.
 
-Pur utilizzando cartucce differenti rispetto a quelle del Game Boy e Game Boy Color, il Game Boy Advance rimane compatibile con queste ultime grazie alla presenza di un coprocessore Z80, che garantisce la retrocompatibilità.
+Tecnicamente molto simile allo SNES è in grando di riprodurre giochi di elevata complessità e limitatamente anche in 3D. La CPU Z80 integrata garantisce la compatibilità con i giochi dei precedenti Game Boy.
 
-Il Game Boy Advance con il suo processore ARM7TDMI a 16,78 MHz, nonostante gestisca alcune basi del 3D, non è dotato di reale supporto hardware per la renderizzazione della grafica poligonale 3D, ma con la discreta potenza del processore era perfettamente possibile la realizzazione in software di mondi 3D fatti di un numero limitato di poligoni, texture mappate, sorgenti di luce e ombre.";Leandro Macrini
+Col il secondo modello, il Game Boy Advance SP, oltre ad un nuovo design, arrivano anche retroilluminazione e batteria ricaricabile. Ultima versione prodotta è invece il Game Boy Micro, caratterizzato dalle dimensione ridotte e dalla perdita della retrocompatibilità.
+
+Nonostante le enormi vendite, il Game Boy Advance ebbe incredibilmente vita produttiva relativamente breve. L'uscita ed il successo del Nintendo DS nel 2004, che era inizialmente anche retrocompatibile con le cartucce del GBA, pose fine del tutto alla linea Game Boy.";Leandro Macrini
 Game Boy Color;Quinta;[{'Data': '21 ottobre 1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '18 novembre 1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_Canada_and_the_United_States.svg'}, {'Data': '23 novembre 1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];1998;2003;"49 milioni
 ";;Nintendo;Sharp LR35902 @ 4,19 MHz;;;Cartucce;Pokémon Oro e Argento, Metal Gear: Ghost Babel;https://upload.wikimedia.org/wikipedia/commons/c/c5/Game_Boy_Color_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Game Boy Color;https://upload.wikimedia.org/wikipedia/commons/f/f9/Game-Boy-Color-Purple.jpg;"Il Game Boy Color (ゲーム ボーイ カラー) è una console portatile di Nintendo successore dell'originale Game Boy.
 La console fu messa in commercio ad ottobre 1998 in Giappone e, soltanto un mese dopo, nel resto del mondo.
@@ -296,15 +299,17 @@ Nintendo 64DD;Quinta;[{'Data': 'dicembre 1999', 'Flag': 'https://upload.wikimedi
 Il 64DD fu distribuito esclusivamente in Giappone, in una confezione che includeva, tra le altre cose, un mouse, un modem e sei giochi.
 
 Nel 2016 è stata resa pubblica l'esistenza di un prototipo del 64DD ideato per il mercato statunitense.";
-Nintendo DS;Settima;[{'Data': '21 novembre 2004', 'Flag': None}, {'Data': '2 dicembre 2004', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '24 febbraio 2005', 'Flag': None}, {'Data': '11 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}];2004;2011;154,88 milioni ;;Nintendo;ARM9E e ARM7TDMI;Schermo Tattile;4,64 MB;"Cartucce
-Cartucce GBA";New Super Mario Bros. 30,80 milioni (20 settembre 2020);https://upload.wikimedia.org/wikipedia/commons/a/af/Nintendo_DS_Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Nintendo DS;https://upload.wikimedia.org/wikipedia/commons/a/a3/Nintendo-DS-Fat-Blue.png;"Il Nintendo DS (dove la sigla ""DS"" sta per ""Dual Screen"" doppio schermo  per indicare la sua peculiare caratteristica e solitamente abbreviato come NDS o DS) è una console portatile ideata e fabbricata da Nintendo, presentata nel 2004.
-La console presenta un design a conchiglia, e possiede due schermi LCD al suo interno – uno dei quali è uno schermo tattile.
+Nintendo DS;Settima;[{'Data': '21 novembre 2004', 'Flag': None}, {'Data': '2 dicembre 2004', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '24 febbraio 2005', 'Flag': None}, {'Data': '11 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}];2004;2011;154,88 milioni ;;Nintendo;"ARM9E @ 67 MHz
+ARM7TDMI @ 33 MHz";"Croce direzionale
+Schermo Tattile";"4 MB RAM
+656 kB VRAM";"Cartucce DS
+Cartucce GBA";New Super Mario Bros. (30,80 milioni);https://upload.wikimedia.org/wikipedia/commons/a/af/Nintendo_DS_Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Nintendo DS;https://upload.wikimedia.org/wikipedia/commons/a/a3/Nintendo-DS-Fat-Blue.png;"Il Nintendo DS (""Dual Screen""), abbreviato spesso come NDS o DS, è una console portatile prodotta in 9 colori da Nintendo dal 2004.
 
-Il DS offre anche un microfono incorporato e supporta la connettività wireless IEEE 802.11 (Wi-Fi), grazie al servizio di gaming online Nintendo Wi-Fi Connection.
-È stata la prima console Nintendo ad essere commercializzata prima in Nord America (21 novembre 2004) che in Giappone (2 dicembre 2004). Qualche mese più tardi è uscita nei negozi anche in Australia (24 febbraio 2005) e, per ultima, in Europa (11 marzo 2005). È attualmente la seconda console più venduta della storia dopo la PlayStation 2. 
-Sul territorio europeo è stato commercializzato in 9 colori: bianco, nero, argento, blu, rosa, rosso, grigio, verde e azzurro.
+La console presenta un design a conchiglia che riprende quello delle prime console portatili della Nintendo, i Game & Watch. Possiede due schermi LCD al suo interno, uno dei quali dotato di touch screen per permettere nuovi tipi di interazione con i giochi. Ha anche un microfono incorporato e supporta la connettività wireless, grazie al servizio di gaming online Nintendo Wi-Fi Connection.
 
-Dopo oltre sei anni, l'intera serie delle console Nintendo DS è stata affiancata e poi sostituita dal Nintendo 3DS, la nuova console portatile di Nintendo, che ha esordito in Europa il 25 marzo 2011.. La console è stata d'altra parte già dismessa nel 2009 e i giochi sono rimasti utilizzabili per Nintendo DSi e Nintendo DSi XL fino al 20 maggio 2014 quando Nintendo ha annunciato che non sarebbero stati più disponibili, come il servizio Nintendo Wi-Fi Connection.";Leandro Macrini
+La console è capace di riprodurre video in un formato proprietario e di sviluppare grafica 3D tramite la sua CPU principale ARM9 a 32 bit. Garantisce inoltre la retrocompatibilità con i titoli del Game Boy Advance.
+
+Con quasi 155 milioni di copie prodotte (tutte le varianti uscite), è attualmente la seconda console più venduta della storia dopo la PlayStation 2. ";Leandro Macrini
 Nintendo Entertainment System;Terza;;1985;1995;61,91 milioni;RP2C02/RP2C07;Nintendo;Ricoh 2A03/2A07;Joypad, Lightgun;4,35 kB;"Cartucce";"Super Mario Bros. (40,23 milioni, gioco incluso); Super Mario Bros. 3 (18 milioni)";https://upload.wikimedia.org/wikipedia/commons/0/0d/NES_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Nintendo Entertainment System;https://upload.wikimedia.org/wikipedia/commons/8/82/NES-Console-Set.jpg;"Il Nintendo Entertainment System (NES) è la versione per il mercato occidentale della console Giapponese a 8-bit FamiCom, prodotta da Nintendo tra il 1983 e il 1995.
 
 È da molti considerato il sistema che ha risollevato l'industria dei videogiochi USA dopo la crisi del 1983, soprattutto grazie al clamoroso successo di titoli come Super Mario Bros, The Legend of Zelda e Metroid, di livello qualitativo superiore a quello dell'epoca, anche grazie ai rigorosi controlli che Nintendo effettuava sui giochi; la console ha inoltre introdotto un modello lavorativo oggi adottato da tutti, ovvero quello di concedere a terze parti le licenze per lo sviluppo dei software.
@@ -444,11 +449,23 @@ I giochi per PocketStation si trovano memorizzati su alcuni CD-ROM dei giochi pe
 Anche se il sistema non è stato distribuito al di fuori del Giappone, sono stati comunque effettuati dei piani (mai realizzati) di una probabile diffusione. Le caratteristiche del sistema sono apparse, ad esempio, su una rivista ufficiale per PlayStation inglese 'Official UK PlayStation Magazine', e alcuni pochi giochi (come Final Fantasy VIII) hanno conservato nelle loro versioni localizzate le funzionalità della PocketStation. Di conseguenza la versione PC di Final Fantasy VIII possiede il gioco 'Chocobo World' come parte dell'installazione.
 
 Il 5 novembre 2013 è stata annunciata un'applicazione per PlayStation Vita esclusivamente per il Giappone, che permette di utilizzare alcuni dei più famosi minigiochi PocketStation.";Leandro Macrini
-PSP;Settima;[{'Data': '12 dicembre 2004', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg'}];2004;3 giugno 2014 26 settembre 2014;82,52 milioni;;Sony Interactive Entertainment;Allegrex MIPS R4000 32 bit;;32-64 MB;"UMD
-Memory Stick";Grand Theft Auto: Liberty City Stories  7,6 milioni (ottobre 2015);https://upload.wikimedia.org/wikipedia/commons/0/0e/PSP_Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/PlayStation Portable;https://upload.wikimedia.org/wikipedia/commons/4/46/Psp-1000.jpg;"PlayStation Portable (プレイステーション ポータブル), ufficialmente abbreviata come PSP, è una console portatile per videogiochi prodotta da Sony Interactive Entertainment, parte della serie PlayStation. Il suo sviluppo è stato annunciato all'E³ del 2003 ed è stata svelata ufficialmente l'11 maggio 2004 a una conferenza stampa prima dell'E³ 2004. La console è stata commercializzata in Giappone il 12 dicembre 2004, negli USA e in Canada il 24 marzo 2005 e in Europa e Australia il 1 settembre 2005. La PlayStation Portable si è dismessa in tutto il mondo nel 2014.
+Pokémon Mini;Sesta;;2001;2002;;;Nintendo;Seiko Epson S1C88 8 bit @ 4 MHz;;4 kB;CD-ROM;;https://upload.wikimedia.org/wikipedia/commons/0/07/Pokemon_mini_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Pok%C3%A9mon_Mini;https://upload.wikimedia.org/wikipedia/commons/c/c3/Pok%C3%A9mon_mini_system.jpg;"Il Pokémon Mini (ポケモン ミニ) è una console portatile prodotta da Nintendo nel 2001, basata sulla serie Pokémon e che restò sul mercato per un solo anno.
 
-La PSP è stata accolta positivamente da parte dalla critica è ha venduto 82,52 milioni di copie durante i suoi 10 anni di vita; il videogioco più venduto della console si tratterebbe di Grand Theft Auto: Liberty City Stories, che ha venduto 7,6 milioni di copie.
-Il successore della PlayStation Portable, ovvero la PlayStation Vita, è stato rilasciato in Giappone a fine 2011 e in Nord America e in Europa nel febbraio 2012; la PlayStation Vita si è dismessa nel 2019.";Leandro Macrini
+Si tratta della più piccola console a cartucce mai realizzata da Nintendo: è dotata di uno schermo in bianco e nero, tre tasti azione più croce direzionale, un orologio integrato, vibrazione e un sensore di movimento.
+
+Ha cartucce della dimensione di un francobollo, ed è possibile collegare due console tramite porta infrarossi per le modalità multigiocatore. Fu prodotto in tre colori, azzurro, verde e viola, ispirati ai Pokémon della seconda generazione Wooper, Chikorita e Smoochum.
+ 
+Aveva già a suo tempo delle caratteristiche rétro, eppure le sue capacità interattive erano avanti anche rispetto al contemporaneo Game Boy Advance. Essendo orientato solo ai giochi dei Pokémon, si rivolgeva più al mercato dei giocattoli per bambini.";Leandro Macrini
+Playstation Portable;Settima;[{'Data': '12 dicembre 2004', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg'}, {'Data': '24 marzo 2005', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg'}];2004;2014;82,52 milioni;;Sony Interactive Entertainment;"Allegrex MIPS R4000 32 bit @ 333 MHz
+Media Engine CXD5026-203GG @ 333 MHz";;32 o 64 MB (in base al modello);"UMD
+Memory Stick";GTA: Liberty City Stories (7,6 milioni);https://upload.wikimedia.org/wikipedia/commons/0/0e/PSP_Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/PlayStation Portable;https://upload.wikimedia.org/wikipedia/commons/4/46/Psp-1000.jpg;"La PlayStation Portable (プレイステーション ポータブル), abbreviata come PSP, è una console portatile prodotta da Sony dal 2004.
+
+Uscita in quattro versioni diverse tra loro, è stata accolta positivamente dalla critica per le sue capacità tecniche ed il display di grandi dimensioni. Il supporto integrato al wi-fi, permette la connessione alla Playstation, ad altre PSP, alla rete Internet e la partecipazione contemporanea fino a 32 giocatori.
+
+Il parco titoli di PSP risulta molto simile a quello PlayStation 2, riproponendo di fatto la maggior parte dei marchi più famosi e conosciuti in versione portatile.
+La PSP è l'unica console portatile ad utilizzare per i giochi un formato disco ottico, l'Universal Media Disc (UMD), impiegato anche per la riproduzione e vendita di film.
+
+È stata di fatto l'unica vera contendente al predominio di Nintendo nel mercato delle console portatili.";Leandro Macrini
 PV-1000;Terza;[{'Data': 'ottobre 1983', 'Flag': None}];1983;;;;Casio;NEC µPD780C;Joystick;;Cartucce;;https://upload.wikimedia.org/wikipedia/commons/6/6a/Casio_PV-1000_logo.jpg;https://it.wikipedia.org/api/rest_v1/page/html/PV-1000;https://upload.wikimedia.org/wikipedia/commons/2/2c/Casio-PV1000-Console-Set.png;"PV-1000 è una console per videogiochi programmabile prodotta da Casio e commercializzata in Giappone nel 1983. Nello stesso anno Casio ha messo in commercio anche un home computer chiamato PV-2000; i due sistemi hanno i controller tra loro compatibili ma non i giochi. Sono stati prodotti circa 15 videogiochi, tra i quali conversioni di popolari arcade come Amidar, Dig Dug e Pooyan. Quello stesso anno Casio commercializzò altri due computer MSX chiamati PV-7 e PV-16. La PV-1000 fu inizialmente venduta a 14,800¥.
 
 Casio non riuscì a raggiungere una quota di mercato significativa, nonostante vendette questa console per 3 anni.";Leandro Macrini
@@ -573,7 +590,6 @@ Uscirono altre due versioni della console:
 WonderSwan Color (2000)
 SwanCrystal (2002)
 ";Leandro Macrini
-WonderSwan Color;Sesta;;;;;;Bandai;NEC V20;;512 kB;Cartucce;Final Fantasy I & II;https://upload.wikimedia.org/wikipedia/commons/6/61/Wonderswan-Color-Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/WonderSwan Color;https://upload.wikimedia.org/wikipedia/commons/0/0a/WonderSwan-Color-Blue-Left.jpg;Il WonderSwan Color è una console portatile sviluppata dalla Bandai. È stata presentata il 30 dicembre 2000 in Giappone e ha avuto un discreto successo.;Leandro Macrini
 Xbox;Sesta;[{'Data': '15 novembre 2001', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_Canada_and_the_United_States.svg'}, {'Data': '22 febbraio 2002', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '14 marzo 2002', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];2001;2005 2006;24 milioni;"NVIDIA ""XGPU""";Flextronics;Intel Coppermine;Joypad;64 MB;"DVD-ROM
 Disco rigido";Halo 2, 8 milioni di copie;https://upload.wikimedia.org/wikipedia/commons/7/75/Vectorial_Xbox_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/Xbox;https://upload.wikimedia.org/wikipedia/commons/a/a7/Xbox-Console-wDuke-L.jpg;"Xbox è una console per videogiochi prodotta da Microsoft. Appartenente alla sesta generazione, venne messa in vendita il 15 novembre 2001 in America del Nord, il 22 febbraio 2002 in Giappone e il 14 marzo in Europa e Australia. Ha rappresentato il primo tentativo di entrare nel mercato delle console da parte della Microsoft, dopo aver collaborato con SEGA nel convertire Windows Embedded Compact per Dreamcast. Fu anche la prima console prodotta da una società americana da quando l'Atari Jaguar cessò la produzione nel 1996.
 
@@ -674,7 +690,6 @@ Action Max;Terza;;1987;;Sconosciute;;Worlds of Wonder;HD401010;;;"VHS";;https://
 Usando delle pistole Lightgun, i giocatori sparano direttamente verso lo schermo. Il gioco è strettamente basato su punti da colpire e dipende pricipalmente dalla precisione di tiro. Di conseguenza, i giocatori non possono veramente vincere o perdere una partita.
 
 L'attrattiva del sistema era molto limitata da questo e dal fatto che l'unico vero genere di intrattenimento realizzabile sul sistema erano i giochi di armi leggere che si giocavano esattamente allo stesso modo ogni volta. Questo portò la console al suo rapido declino e all'uscita dal mercato.";Leandro Macrini;
-
 Atari XEGS;Terza;;1987;1992;100.000;ANTIC e GTIA;Atari Corporation;MOS 6502C @ 1,79 MHz;"Joystick
 Lightgun";64 kB;Cartucce;;https://upload.wikimedia.org/wikipedia/commons/a/ae/Atari_XEGS_logo-10.svg;https://en.wikipedia.org/wiki/Atari_XEGS;https://upload.wikimedia.org/wikipedia/commons/4/43/Atari_XEGS_-_Computerspielemuseum-49_%2817134338672%29.jpg;"L'Atari XE Video Game System (Atari XEGS) è una riprogettazione del computer domestico Atari 65XE ed il modello finale della famiglia Atari a 8 bit.
 
@@ -684,3 +699,26 @@ Venne venduto da Atari come set base di console e joystick, e come set deluxe di
 Fu supportata da nuovi giochi, tra cui Barnyard Blaster e Bug Hunt, oltre al port su cartuccia di giochi già esistenti, come Fight Night (Accolade, 1985), Lode Runner (Broderbund, 1983), Necromancer (Synapse Software, 1982) e Ballbuster (Lucasfilm Games, 1985).
 
 Ebbe comunque scarso successo e fu dismessa nel 1992 insieme al resto della linea di computer a 8 bit, all'Atari 2600 e all'Atari 7800.";Leandro Macrini;8
+Nokia N-Gage;Sesta;;2003;2006;3 milioni;;Nokia;ARM920T @ 104 MHz;"Tastiera numerica integrata e croce direzionale";"16 MB RAM
+16 MB ROM";Multimedia Card;Alien Front;https://upload.wikimedia.org/wikipedia/commons/2/2c/N-Gage_console_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/N-Gage;https://upload.wikimedia.org/wikipedia/commons/3/3f/Nokia-NGage-R.jpg;"N-Gage è un marchio di Nokia con il quale inizialmente nel 2003 si intendevano due diversi modelli di telefono cellulare con funzionalità orientate a console portatile per videogiocare.
+
+Non ebbe successo anche a causa del prezzo alto e della scomodità di utilizzo (inizialmente bisognava spegnerlo per cambiare gioco).
+La prima versione chiamata N-Gage Game Deck fu sostituita dall'N-Gage QD, un nuovo modello, di dimensioni inferiori, più spoglio come dotazione, quindi meno costoso e che comprendeva al suo interno un software per il gioco online e chat chiamato N-Gage Arena.
+
+Dal 2005, in un tentativo di rilancio, il marchio N-Gage è passato a indicare una piattaforma per videogiochi installabile su diversi dispositivi predisposti (Nokia N73/N78/N79, Nokia N81/N82/N85, Nokia N93/N95/N96/N97).
+
+Nel 2011 il cambio di rotta dell'azienda verso i telefoni con sistema Microsoft Windows Phone, ha decretato la fine del progetto.";Leandro Macrini;8
+Gizmondo;Settima;;2005;2006;Meno di 30.000;;Tiger Telematics;	ARM9 S3C2440 @ 400 MHz;;"1.2 MB VRAM
+64 MB RAM
+64 MB ROM";"SD
+MMC";Sticky Balls;https://upload.wikimedia.org/wikipedia/en/1/19/Gizmondo_%28logo%29.png;https://it.wikipedia.org/api/rest_v1/page/html/Gizmondo;https://it.wikipedia.org/wiki/File:Gizmondo.jpg;"Il Gizmondo è una console portatile prodotta dalla Tiger Telematics dal 2005 al 2006.
+
+È dotata di una piccola videocamera e può inviare SMS, MMS, email e fare chiamate vocali. Può inoltre riprodurre audio, filmati e giochi tridimensionali. Ha un modulo GPS satellitare utilizzato nei giochi multiplayer per tener conto della posizione dei contendenti. 
+
+È stato un clamoroso fallimento anche a causa del fatto che l'azienda, pagando cospicui stipendi bonus e sperperando le entrate in feste milionarie, non riusciva a produrre la propria console ed a distribuirla nei negozi.
+
+Eriksson e Freerfu, due dei dirigenti, furono accusati di legami con la mafia svedese e di aver intascato illecitamente 3,5 milioni di dollari attraverso lo studio Northern Lights.
+Nel 2006, dopo che Eriksson rimase coinvolto in un incidente automobilistico dalle dinamiche poco chiare, fu dismessa.
+In totale, aveva venduto solo 30.000 unità.
+
+";Leandro Macrini;7
