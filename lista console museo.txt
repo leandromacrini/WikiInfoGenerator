@@ -2,15 +2,14 @@ Lista in ordine di uscita delle console in ordine cronologico.
 Prese dal sito www.videogameconsolelibrary.com
 
 POSSEDUTI:
-1972 - Magnavox Odyssey (OK)
-1975 - PC-50X Family (OK?) (PONG CHIP BASED)
-1976 - Fairchild Channel F (OK)
-1976 - 1292 APVS Family (OK CLONE INTERTON VC-4000)
-1977 - Atari Video Computer System \ 2600 (OK)
-1977 - Bally Home Library Computer \ Astrocade (OK)
-1978 - Magnavox Odyssey 2 \ Philips Videopac (OK)
-1978 - Interton VC-4000 (OK)
-1979 - Mattel Intellivision (OK)
+1972 - Magnavox Odyssey (OK) - DUE SLOT
+1975 - PC-50X Family (OK?) (PONG CHIP BASED) - UNO SLOT
+1976 - Fairchild Channel F (OK) - DUE SLOT
+1977 - Atari Video Computer System \ 2600 (OK) - DUE SLOT
+1977 - Bally Home Library Computer \ Astrocade (OK) - DUE SLOT
+1978 - Magnavox Odyssey 2 \ Philips Videopac (OK) - DUE SLOT?
+1978 - Interton VC-4000 (OK) - UNO SLOT
+1979 - Mattel Intellivision (OK) - DUE SLOT
 
 1982 - Coleco ColecoVision (OK)
 1982 - Emerson Arcadia 2001 (OK)
@@ -63,6 +62,7 @@ POSSEDUTI:
 
 MANCANTI:
 1976 - RCA Studio II (MANCA)
+1976 - 1292 APVS Family (MANCA - CLONE INTERTON VC-4000)
 1977 - Coleco Telstar Arcade (MANCA)
 1978 - APF Imagination Machine (MANCA)
 1979 - Bandai Super Vision 8000 (MANCA)
