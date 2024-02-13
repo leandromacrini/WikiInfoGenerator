@@ -247,13 +247,16 @@ Neo Geo CD;Quarta;[{'Data': '9 settembre 1994', 'Flag': 'https://upload.wikimedi
 Il Neo Geo CD ha come controller un joypad che, a differenza del Neo Geo, è fornito di un piccolo quadrante direzionale sulla sinistra che funge da joystick.
 
 Il Neo Geo CD fu un insuccesso commerciale. Il fallimento di questa console viene imputato a un marketing poco aggressivo e all'assenza di titoli dedicati alla console. All'insuccesso del Neo Geo CD seguì l'insuccesso del suo successore Neo Geo CDZ.";Leandro Macrini
-Neo Geo Pocket;Quinta;[{'Data': '27 ottobre 1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];1998;1999;;;SNK;Toshiba TLCS-900H;Joystick;16 kB;Cartucce;;https://upload.wikimedia.org/wikipedia/commons/7/71/SNK_NeoGeo_Pocket_logo.png;https://it.wikipedia.org/api/rest_v1/page/html/Neo Geo Pocket;https://upload.wikimedia.org/wikipedia/commons/c/c3/Neo_Geo_Pocket_Flat_Front.jpg;"Il Neo Geo Pocket è una console portatile monocromatica sviluppata dalla SNK. Venne presentato in Giappone alla fine del 1998 e venne dismesso nel 1999 in favore del Neo Geo Pocket Color.
+Neo Geo Pocket;Quinta;[{'Data': '27 ottobre 1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': '1998', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];1998;1999;;;SNK;"Toshiba TLCS900H @ 6,144 MHz
+Zilog Z80 @ 3,072 MHz";;"12 kB RAM
+4 kB RAM for Z80
+64 KB ROM";Cartucce;;https://upload.wikimedia.org/wikipedia/commons/7/71/SNK_NeoGeo_Pocket_logo.png;https://it.wikipedia.org/api/rest_v1/page/html/Neo Geo Pocket;https://upload.wikimedia.org/wikipedia/commons/c/c3/Neo_Geo_Pocket_Flat_Front.jpg;"Il Neo Geo Pocket è una console portatile monocromatica sviluppata dalla SNK. Venne presentato in Giappone alla fine del 1998.
 
 Il sistema venne venduto solo in Giappone, Asia ed Europa. Nonostante la sua ridotta vita vennero sviluppati alcuni giochi notevoli come Samurai Shodown e King of Fighters R-1.
 
 Era tecnicamente superiore al concorrente Game Boy e inizialmente ebbe un po' di successo, ma due mesi dopo del Neo Geo Pocket uscì l'acclamato Game Boy Color. Ci fu scarsità di nuovi giochi e il pubblico perse presto interesse nel Neo Geo Pocket, per cui anche la SNK puntò su un successore a colori.
 
-Il Neo Geo Pocket può utilizzare molti giochi a colori sebbene esistano alcune notevoli eccezioni come SNK vs. Capcom: The Match of the Millennium. Il nuovo Neo Geo Pocket Color invece è totalmente retrocompatibile con le cartucce del Neo Geo Pocket.";Leandro Macrini
+Ha una compatibilità in avanti con la console successiva, cosa piuttosto rara nel mondo dei videogiochi, può utilizzare quindi molti giochi a colori.";Leandro Macrini
 Neo Geo Pocket Color;Sesta;[{'Data': 'marzo 1999', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg'}, {'Data': 'agosto 1999', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_Canada_and_the_United_States.svg'}, {'Data': 'giugno 1999', 'Flag': 'https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg'}, {'Data': '', 'Flag': None}];1999;2001;;;SNK;"Toshiba TLCS900H @ 6,144 MHz
 Zilog Z80 @ 3,072 MHz";;"12 kB RAM
 4 kB RAM for Z80
@@ -261,10 +264,11 @@ Zilog Z80 @ 3,072 MHz";;"12 kB RAM
 
 La console è dotata di un display a colori a 16 bit ed è retrocompatibile con il precedente Neo Geo Pocket.
 Il nome della console deriva dal Neo Geo, famosa piattaforma arcade e casalinga sempre di SNK, per sfruttarne la scia del successo commerciale.
-
 La scelta di mantenere uno schermo non retroilluminato è stata fatta per aumentare la longevità delle batterie, stimata in circa 40 ore di gioco con solo due pile stilo.
 
-Del Neo Geo Pocket Color state prodotte molte versioni della console delle più svariate colorazioni.";Leandro Macrini
+Del Neo Geo Pocket Color state prodotte molte versioni della console delle più svariate colorazioni.
+
+Il Neo Geo Pocket Color è totalmente retrocompatibile con le cartucce del Neo Geo Pocket.";Leandro Macrini
 Neo-Geo AES;Quarta;[{'Data': '1990', 'Flag': None}];1990;2004;;;SNK;Motorola 68000;;;Cartucce;;https://upload.wikimedia.org/wikipedia/commons/6/6d/Neo-Geo_mvs_logo.png;https://it.wikipedia.org/api/rest_v1/page/html/Neo Geo;https://upload.wikimedia.org/wikipedia/commons/9/9b;"Neo Geo (ネオジオ Neo Jio), indicato anche con le grafie Neo-Geo, NeoGeo o NEO•GEO (come appare sul logo), è una tecnologia per videogiochi commercializzata tra il 1990 e il 2004, utilizzata nella scheda per videogiochi arcade Neo Geo Multi Video System (MVS) e nella console per uso domestico Neo Geo Advanced Entertainment System (AES).
 
 Il nome ha un significato ben preciso, ovvero ""nuovo mondo"" riferito al fatto di poter contare su cabinati più economici e configurabili più facilmente per quel che riguarda il sistema MVS, mentre l'AES rappresentava il primo sistema casalingo in grado di riprodurre i videogiochi delle sale giochi con assoluta fedeltà, tuttavia a causa dell'elevato costo ebbe scarsa diffusione.
@@ -357,7 +361,21 @@ Nata per contrastare Channel F e Atari 2600, fu commercializzata in Europa anche
 Fallì nel tentativo di imporsi come standard, ma riscosse delle buone quote di mercato in Europa. Negli Stati Uniti, nonostante un buon inizio, non riuscì a surclassare il potere commerciale di Atari e Mattel, che vinsero anche grazie al massiccio e costante supporto riservato loro dagli sviluppatori di terze parti.
 
 I primi giochi sportivi rilasciati, avevano grafica primitiva e scarsa giocabilità. Migliorarono coi titoli successivi, incredibilmente quasi tutti realizzati da Ed Averret. Primo fra tutti KC Munchkin, clone di Pac-Man che però costò a Philips una causa da parte di Atari con conseguente ritiro del titolo dal mercato.";Leandro Macrini
-Ping-o-tronic;Prima;[{'Data': '1974', 'Flag': None}];1974;1983 (inclusa Play-o-tronic);1 milione (inclusa Play-o-tronic);;Zanussi/Sèleco;Nessuno (componenti discreti);"Paddle
+Ping-o-Tronic;Prima;;1974;1983;1 milione (tutta la serie);;"Zanussi
+Sèleco";Assente (componenti discreti);"Paddle
+Lightgun";Assente;;;logos/ping-o-tronic.svg;https://it.wikipedia.org/api/rest_v1/page/html/Ping-O-Tronic;;"Il Ping-O-Tronic è una console prodotta dalla Zanussi nel 1974 con marchio Sèleco. Fu in assoluto la prima console di produzione italiana.
+
+La logica di controllo è basata su tre chip 7400.
+I giochi utilizzabili sono soltanto tre simili fra loro: Pong, lo squash ed il rimbalzo della palla contro il muro.
+
+Della console esistono numerose versioni, contrassegnate dalle sigle PP-1 fino a PP-10. Nella maggior parte delle versioni, non si hanno significative differenze per l'utente finale; sono modifiche o miglioramenti tecnici a livello implementativo. A partire dalla PP-5 invece si ha un nuovo slot a cui si può collegare un fucile ottico che permette di giocare ad un nuovo gioco di mira. Tale accessorio si chiamava Gun-o-Tronic. È una delle poche console realizzate a componenti discreti che permettesse di giocare ad un gioco di mira; le sole altre console conosciute erano Magnavox Odyssey e Philips Tele-Spiel ES-2201.";Leandro Macrini
+PONG;Prima;;1975;1983 (inclusa Play-o-tronic);1 milione (inclusa Play-o-tronic);;Zanussi/Sèleco;Nessuno (componenti discreti);"Paddle
+Lightgun";;;;https://upload.wikimedia.org/wikipedia/commons/1/1e/Atari_Pong_Console_logo.jpg;https://it.wikipedia.org/api/rest_v1/page/html/Ping-O-Tronic;;"PONG è uno dei primissimi videogiochi commercializzati, prodotto da Atari nel 1972 come simulatore da sala giochi del ping-pong, da cui il prende il nome.
+
+Già nel 1966 Ralph Baer della Sanders Associates aveva lavorato alla stessa idea,, ma non riuscì però a commercializzarlo prima del 1972 e solo grazie alla Magnavox, con cui diede vita alla console Odyssey. Il neo laureato Nolan Bushnell, futuro fondatore della Atari, ispirandosi all'Odyssey fece sviluppare ad Allan Alcorn il gioco PONG: uno dei primi videogiochi a moneta (secondo solo a Computer Space del 1971). La cosa non passò inosservata agli occhi della Magnavox, che fece causa a Bushnell ed ottenne un grosso risarcimento.
+
+La versione domestica, costituita da una console da collegare alla TV, fu lanciata sul mercato dalla Atari nel 1975. Quando nel 1976 la ";Leandro Macrini
+Polistil Video Games;Prima;[{'Data': '1974', 'Flag': None}];1974;1983 (inclusa Play-o-tronic);1 milione (inclusa Play-o-tronic);;Zanussi/Sèleco;Nessuno (componenti discreti);"Paddle
 Lightgun";;;;https://upload.wikimedia.org/wikipedia/commons/8/8a/Zanussi_-_Ping-o-tronic.jpg;https://it.wikipedia.org/api/rest_v1/page/html/Ping-O-Tronic;;"Il Ping-o-tronic (stilizzato Ping·o·tronic) è una console per videogiochi di prima generazione prodotta dalla Zanussi e uscita con il marchio Sèleco nel tardo 1974. Nella modalità di gioco è simile a Pong. Fu la prima console di produzione italiana. A dicembre 1974 era in vendita a 49.000 lire.
 
 Il 21 aprile 1975 Zanussi ottenne la licenza per implementare il gioco di Pong da Sanders Associates.";Leandro Macrini
@@ -572,7 +590,7 @@ Wii Classic Controller Pro
 Wii Balance Board";;"iDensity
 Disco ottico Wii";Mario Kart 88,45 milioni (30 settembre 2020);https://upload.wikimedia.org/wikipedia/commons/7/7e/WiiU.svg;https://it.wikipedia.org/api/rest_v1/page/html/Wii U;https://upload.wikimedia.org/wikipedia/commons/4/4a/Wii_U_Console_and_Joypad.png;"Wii U (ウィー・ユー Wī Yū, pronunciato come i pronomi inglesi we [wiː] ""noi"" e you [juː] ""tu"" o ""voi"") è una console per videogiochi prodotta da Nintendo. É il successore di Wii pur non sostituendolo in alcuni paesi ed è stata la prima console dell'ottava generazione ad essere immessa sul mercato. I suoi principali concorrenti sono PlayStation 4 di Sony e Xbox One di Microsoft.";Leandro Macrini;8
 WonderSwan;Sesta;;1999;2003;3,5 milioni (tutte le versioni);;"Bandai
-Koto Corporation";NEC V30 MZ;;64 kB;Cartucce;Final Fantasy I & II;https://upload.wikimedia.org/wikipedia/commons/6/61/Wonderswan-Color-Logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/WonderSwan Color;https://upload.wikimedia.org/wikipedia/commons/0/0a/WonderSwan-Color-Blue-Left.jpg;"Il WonderSwan è una console portatile creata da Bandai e Koto per il mercato orientale e particolarmente per quello giapponese nel 1999.
+Koto Corporation";NEC V30 MZ;;64 kB;Cartucce;Final Fantasy I & II;https://upload.wikimedia.org/wikipedia/commons/c/cd/WonderSwan_logo.svg;https://it.wikipedia.org/api/rest_v1/page/html/WonderSwan;https://upload.wikimedia.org/wikipedia/commons/2/27/WonderSwan-Black-Left.jpg;"Il WonderSwan è una console portatile creata da Bandai e Koto per il mercato orientale e particolarmente per quello giapponese nel 1999.
 
 Nel 1996 Gunpei Yokoi, progettista della serie Game Boy, lasciò Nintendo dopo l'insuccesso del Virtual Boy e fondò la KOTO Corporation.
 La Bandai, per entrare nel settore delle portatili, gli propose la creazione di un sistema che potesse concorrere con il Game Boy.
