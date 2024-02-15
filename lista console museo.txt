@@ -2,65 +2,108 @@ Lista in ordine di uscita delle console in ordine cronologico.
 Prese dal sito www.videogameconsolelibrary.com
 
 POSSEDUTI:
-1- 1972 - Magnavox Odyssey (OK) - DUE SLOT - PRINT
-1975 - PC-50X Family (OK?) (PONG CHIP BASED) - UNO SLOT - VETRINA PONG
-2 - 1976 - Fairchild Channel F (OK) - DUE SLOT - PRINT
-3 - 1977 - Atari Video Computer System \ 2600 (OK) - DUE SLOT - PRINT - ENTRA IN VETRINA?
-4 - 1977 - Bally Home Library Computer \ Astrocade (OK) - DUE SLOT
-5 - 1978 - Magnavox Odyssey 2 \ Philips Videopac (OK) - DUE SLOT?
-1978 - Interton VC-4000 (OK) - UNO SLOT - VETRINA - PRINT - VETRINA ?
-6 - 1979 - Mattel Intellivision (OK) - DUE SLOT - PRINT
-ping-o-tronic - (OK) - DUE SLOT
-pong - (OK) - UNO SLOT - VETRINA
 
-1982 - Coleco ColecoVision (OK) - DUE SLOT
-1982 - Emerson Arcadia 2001 (OK) - DUE SLOT?
-1982 - GCE Vectrex (OK) - UNO SLOT
-1983 - Nintendo Famicom (OK) - UNO SLOT
-1985 - Nintendo NES (OK) - UNO SLOT
-1983 - Sega SG-1000 (Mark I \ Mark II) (OK) - UNO SLOT
-1985 - Sega Mark III \ Master System (OK) - DUE SLOT
-1986 - Atari 7800 Pro System (OK) - UNO SLOT - PRINT
-1986 - Nintendo Famicom Disk System (OK) - UNO SLOT
-1986 - Sharp Twin Famicom (OK) - UNO SLOT?
-1987 - Worlds of Wonder Action Max (OK) - DUE SLOT?
-1987 - Atari XE Game System (XEGS) (OK) - DUE SLOT - PRINT
-1987 - NEC PC Engine \ TurboGrafx-16 (OK) - UNO SLOT
-1988 - Sega Mega Drive \ Genesis (OK) - UNO SLOT
+VT1 - 1975 - PONG - (OK)
+VT1 - 1978 - Polistil Video Games (OK)
+VT1 - 1975 - PC-50X Family (OK)
+VT1 - Interton VC-4000 (OK)
 
-1990 - Commodore 64GS (OK) - DUE SLOT
-1990 - SNK Neo Geo AES \ MVS (OK) - DUE SLOT
-1990 - Nintendo Super Famicom \ SNES (OK) - UNO SLOT
+KALLAX 4x4
+1x2 - 1972 - Magnavox Odyssey
+2x2 - 1976 - Fairchild Channel F
+
+3x2 - 1974 - Ping-o-tronic - DA SPOSTARE
+4x2 - 1977 - Bally Home Library Computer \ Astrocade
+
+5x2 - 1978 - Magnavox Odyssey 2 \ Philips Videopac
+6x2 - 1979 - Mattel Intellivision
+
+VT2 - 1977 - Atari Video Computer System - DA SPOSTARE
+VT2 - 1977 - Atari 2600 - DA SPOSTARE
+VT2 - Amiga JoyBoard - DA SPOSTARE, CI STA? CON ALTRI JOYSTICK ATARI?
+VT2 - Epoch TV BLock (o giochi atari)
+
+KALLAX 4x4
+1x1 - 1982 - Emerson Arcadia 2001
+2x2 - 1982 - Coleco ColecoVision
+3x1 - 1986 - Atari 7800 Pro System
+
+4x2 - 1983 - Sega SG-1000 (Mark I \ Mark II) 
+5x2 - 1985 - Sega Mark III \ Master System
+
+6x1 - 1987 - NEC PC Engine \ TurboGrafx-16 \ ( Senza Duo?) 
+7x1 - 1987 - Atari XE Game System (XEGS)
+8x1 - 1982 - GCE Vectrex (OK)
+9x1 - 1987 - Worlds of Wonder Action Max (OK) - CI STA?
+
+VT3 - Mega Drive
+VT3 - Mega Drive + Mega CD
+VT3 - Mega Drive + 32x
+VT3 - Mega Drive + Mega Converter
+
+KALLAX 4x3 
+1x2 - 1990 - Commodore 64GS (OK) - DA SPOSTARE
+2x1 1993 - Amiga CD32 (OK) - UNO SLOT
+
+3x1 1993 - Panasonic 3DO (OK) - UNO SLOT?
+4x2 - 1990 - SNK Neo Geo AES \ MVS - DA SPOSTARE, CI STA?
+
+5x2 - 1993 - Fujitsu FM Towns Marty (OK) - UNO SLOT?
+6x1 - 1993 - Atari Jaguar (OK) - UNO SLOT
+
+KALLAX 4x3
+x1 1994 - SNK Neo Geo CD \ CDZ (OK) - UNO SLOT
+x1 1994 - Bandai Playdia (OK) - UNO SLOT
+x1 1994 - NEC PC-FX (OK) - UNO SLOT
+
+x1 1994 - Sega Saturn (OK) - UNO SLOT
+x2 1995 - Casio Loopy (OK) - DUE SLOT?
+
+x1 1995 - Bandai Pippin ATMARK \ @WORLD (OK)
+x1 1998 - Sega Dreamcast (OK) - UNO SLOT
+x1 1995 - PC Engine DUO?
+
+VTS - SCOPE
+VTS - Merlin
+VTS - MICROVISION
+VTS - TIC TAC TOE
+
+ZONA PC:
 1991 - Philips CD-i (OK) - DUE SLOT
 1991 - Commodore CDTV (OK) - DUE SLOT
-1991 - Sega CD \ Mega-CD (OK) - UNO SLOT
-1991 - NEC PC Engine Duo \ TurboDuo (OK) - UNO SLOT
-1993 - Fujitsu FM Towns Marty (OK) - UNO SLOT?
-1993 - Amiga CD32 (OK) - UNO SLOT
-1993 - Panasonic 3DO (OK) - UNO SLOT?
-1993 - Atari Jaguar (OK) - UNO SLOT
-1994 - SNK Neo Geo CD \ CDZ (OK) - UNO SLOT
-1994 - Bandai Playdia (OK) - UNO SLOT
-1994 - NEC PC-FX (OK) - UNO SLOT
-1994 - Sega 32X \ Super 32X (OK) - UNO SLOT
-1994 - Sega Saturn (OK) - UNO SLOT
-1994 - Sony PlayStation (OK) - UNO SLOT
-1995 - Casio Loopy (OK) - DUE SLOT?
-1995 - Nintendo Virtual Boy (OK) - UNO SLOT
-1995 - Bandai Pippin ATMARK \ @WORLD (OK) - UNO SLOT?
-1996 - Nintendo 64 (OK) - UNO SLOT
-1998 - Sega Dreamcast (OK) - UNO SLOT
+TODO
 
-2000 - Sony PlayStation 2 (OK) - UNO SLOT
-2001 - Nintendo GameCube (OK) - UNO SLOT
-2001 - Microsoft Xbox (OK) - UNO SLOT
-2005 - Microsoft Xbox 360 (OK) - UNO SLOT
-2006 - Nintendo Wii (OK) - UNO SLOT
-2006 - Sony PlayStation 3 (OK) - UNO SLOT
+TAVOLI ESPOSITIVI
+1983 - Nintendo Famicom (OK)
+1986 - Nintendo Famicom Disk System (OK)
+1986 - Sharp Twin Famicom (OK)
 
-2012 - Nintendo Wii U (OK) - UNO SLOT
-2013 - Sony PlayStation 4 (OK) - UNO SLOT
-2013 - Microsoft Xbox One (OK) - UNO SLOT
+VETRONA:
+POWER GLOVE
+ROBY
+HANAFUDA
+VIRTUAL BOY?
+
+NEXT-GEN
+1x1 - 1985 - Nintendo NES (OK) - UNO SLOT
+2x1 - 1990 - Nintendo Super Famicom \ SNES (OK) - UNO SLOT
+3x1 - 1996 - Nintendo 64 (OK) - UNO SLOT
+4x1 - 2001 - Nintendo GameCube (OK) - UNO SLOT
+5x1 - 2006 - Nintendo Wii (OK) - UNO SLOT
+6x1 - 2012 - Nintendo Wii U (OK) - UNO SLOT
+7x2 - Switch
+
+1x1 - 1994 - Sony PlayStation (OK) - UNO SLOT
+2x1 - 2000 - Sony PlayStation 2 (OK) - UNO SLOT
+3x1 - 2006 - Sony PlayStation 3 (OK) - UNO SLOT
+4x1 - 2013 - Sony PlayStation 4 (OK) - UNO SLOT
+5x2 - Playstation 5
+5x2 - VR1 e VR2
+
+1x2 - 2001 - Microsoft Xbox (OK) - UNO SLOT
+2x2 - 2005 - Microsoft Xbox 360 (OK) - UNO SLOT
+3x2 - 2013 - Microsoft Xbox One (OK) - UNO SLOT
+4x2 - Xbox Series X
 
 MANCANTI:
 1976 - RCA Studio II (MANCA)
