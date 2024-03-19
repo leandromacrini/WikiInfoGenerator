@@ -3,25 +3,25 @@ Prese dal sito www.videogameconsolelibrary.com
 
 POSSEDUTI:
 
-VT1 - 1975 - PONG - (OK)
-VT1 - 1978 - Polistil Video Games (OK)
-VT1 - 1975 - PC-50X Family (OK)
-VT1 - Interton VC-4000 (OK)
+VT1 - 1975 - PONG
+VT1 - 1978 - Polistil Video Games
+VT1 - 1975 - PC-50X Family
+VT1 - Interton VC-4000
 
 KALLAX 4x4
 1x2 - 1972 - Magnavox Odyssey
 2x2 - 1976 - Fairchild Channel F
 
-3x2 - 1974 - Ping-o-tronic - DA SPOSTARE
+3x2 - 1974 - Ping-o-tronic
 4x2 - 1977 - Bally Home Library Computer \ Astrocade
 
 5x2 - 1978 - Magnavox Odyssey 2 \ Philips Videopac
 6x2 - 1979 - Mattel Intellivision
 
-VT2 - 1977 - Atari Video Computer System - DA SPOSTARE
-VT2 - 1977 - Atari 2600 - DA SPOSTARE
-VT2 - Amiga JoyBoard - DA SPOSTARE, CI STA? CON ALTRI JOYSTICK ATARI?
-VT2 - Epoch TV BLock (o giochi atari)
+VT2 - 1977 - Atari Video Computer System
+VT2 - 1977 - Atari 2600
+VT2 - Amiga JoyBoard
+VT2 - Epoch TV BLock
 
 KALLAX 4x4
 1x1 - 1982 - Emerson Arcadia 2001
@@ -105,8 +105,17 @@ NEXT-GEN
 3x2 - 2013 - Microsoft Xbox One (OK) - UNO SLOT
 4x2 - Xbox Series X
 
+RETROCOMPUTER:
+VB1 - 2000 - NUON Technology (MANCA)
+VB1 - CDTV
+VB1 - CD-i 
+
+DA POSIZIONARE:
+1976 - RCA Studio II (OK)
+1977 - Atari Video Pinball (OK)
+1984 - Epoch Super Cassette Vision (MANCA)
+
 MANCANTI:
-1976 - RCA Studio II (MANCA)
 1976 - 1292 APVS Family (MANCA - CLONE INTERTON VC-4000)
 1977 - Coleco Telstar Arcade (MANCA)
 1978 - APF Imagination Machine (MANCA)
@@ -120,7 +129,6 @@ MANCANTI:
 1983 - Gakken Compact Vision (MANCA)
 1983 - Nichibutsu My Vision (MANCA)
 1983 - Tomy Pyuuta Jr. (MANCA)
-1984 - Epoch Super Cassette Vision (MANCA)
 1985 - Daewoo Zemmix (MANCA)
 1985 - RDI Halcyon (MANCA)
 1985 - BBC Bridge Companion (MANCA)
@@ -141,7 +149,6 @@ MANCANTI:
 1998 - Panasonic 3DO M2 (MANCA - HO IL 3DO BASE)
 1999 - Nintendo 64DD (MANCA)
 
-2000 - NUON Technology (MANCA)
 2001 - Panasonic Q (MANCA)
 2003 - Nintendo iQue (MANCA)
 2003 - Sony PSX DVR (MANCA)

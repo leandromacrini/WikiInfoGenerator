@@ -15,7 +15,7 @@ headers = {'User-Agent': 'WikiInfoGenerator/1.0 (https://www.bolognanerd.it; amm
 def download_image(url):
 	data = None
 	if(os.path.exists(url)):
-		with open(url, "r") as file:
+		with open(url, "rb") as file:
 			# Reading from a file
 			data = file.read()
 	else:
@@ -29,6 +29,7 @@ def download_image(url):
 			cairosvg.svg2png(bytestring=data, write_to=out, output_height=1000, dpi=300)
 			return Image.open(out)
 		except Exception as ex:
+			print(f"SVG convert error: {ex}")
 			return None
 	else:
 		data = io.BytesIO(data)
@@ -101,7 +102,6 @@ def create_item_card(item_info, output_path="item_card.png"):
 
 	# create online missing cards (to reprint remove original file)
 	if(os.path.exists(output_path)):
-		print(f"Immagine {output_path} già presente, la escludo.")
 		return
 
 	#CARD parameters
@@ -167,8 +167,12 @@ def create_item_card(item_info, output_path="item_card.png"):
 	card.paste(qr_img, (qr_x, qr_y), qr_img)
 
 	#FonteWiki
+	if(item_info["Fonte"]):
+		source = item_info["Fonte"]
+	else:
+		source = "(2024) Wikipedia"
 	draw_multiline_textbox( 
-		card, "(2024) Wikipedia", font_small,
+		card, source, font_small,
 		qr_x, qr_y-2*gap,
 		qr_img.width, gap,
 		color=text_color, v_align="center", h_align="center"
